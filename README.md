@@ -29,7 +29,7 @@
 - [SOFTWARE ENGINEERING(WBL)](https://github.com/drshahizan/software-engineering)
 
 
-## 👨‍💻 Anything to do with research
+## 👨‍💻 ANYTHING TO DO WITH RESEARCH
 - [The Daily Life of a PhD Student](https://github.com/drshahizan/phd)
 - [Undergraduate projects](https://github.com/drshahizan/undergraduate-project)
 - [Research Colloquium Series 1: Best practices' for using the cloud in research](https://github.com/drshahizan/learn-github)
@@ -38,7 +38,7 @@
   -   [Systematic Review: PRISMA 2020](https://github.com/drshahizan/research-material/tree/main/SLR)
   -   [myTOR](https://github.com/drshahizan/myTOR)
 
-### 🙌🏻 Connect with Me
+### 🙌🏻 CONNECT WITH ME
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/rozilawati" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-rozilawati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rozilawati/"></a>
