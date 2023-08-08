@@ -5,8 +5,7 @@
 
 
 
-
-## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
+//## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
 
 <h1 align="center">Hi 👋, I'm ROZILAWATI BINTI DOLLAH @ MD ZAIN</h1>
