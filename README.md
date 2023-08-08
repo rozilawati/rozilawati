@@ -24,7 +24,7 @@
 ## 📚 COURSES:
 - [DATABASE-WBL](https://github.com/rozilawati/Database-WBL)
 
-- [DATA MINING] (https://github.com/rozilawati/Data-Mining)
+- [DATA MINING](https://github.com/rozilawati/Data-Mining)
 
 - [SOFTWARE ENGINEERING(WBL)](https://github.com/drshahizan/software-engineering)
 
