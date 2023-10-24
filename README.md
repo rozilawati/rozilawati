@@ -36,12 +36,10 @@
 
 ### 🙌🏻 CONNECT WITH ME
 <p align="left">
-    <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://github.com/rozilawati" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@rozilawati-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/rozilawati" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-rozilawati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rozilawati/"></a>
     <a href="mailto:rozilawati@utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-rozilawati@utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rozilawati@utm.my.com"></a>
-    <a href="https://www.researchgate.net/profile/Mohd-Othman-28" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-    <a href="https://orcid.org/0000-0003-4261-1873" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
-</p>
+
   
 
 <details>
