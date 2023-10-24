@@ -15,6 +15,9 @@
 
 
 ## 📚 COURSES:
+
+- [DATABASE - SECTION 10](https://github.com/rozilawati/SECD2523-10)
+
 - [DATABASE-WBL](https://github.com/rozilawati/Database-WBL)
 
 - [DATA MINING](https://github.com/rozilawati/Data-Mining)
