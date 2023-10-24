@@ -10,11 +10,9 @@
 
 - 📫 How to reach me **rozilawati@utm.my**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rozilawati dollah @ md zain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rozilawati dollah @ md zain" height="30" width="40" /></a>
-<a href="https://fb.com/rozeela zain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rozeela zain" height="30" width="40" /></a>
-</p>
+
+
+
 
 ## 📚 COURSES:
 - [DATABASE-WBL](https://github.com/rozilawati/Database-WBL)
