@@ -4,8 +4,8 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frozilawati&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-<h3 align="center">Hi 👋, I'm ROZILAWATI BINTI DOLLAH @ MD ZAIN, an enthusiastic educator and researcher in the field of Computer Science (at UNIVERSITI TEKNOLOGI MALAYSIA). With a deep passion for technology and a commitment to fostering innovation, I strive to inspire the next generation of problem solvers and tech enthusiasts.
-
+<h3 align="center">Hi 👋, I'm ROZILAWATI BINTI DOLLAH @ MD ZAIN, a lecturer and researcher in the field of Computer Science (at UNIVERSITI TEKNOLOGI MALAYSIA). 
+  
 </h3>
 
 - 📫 How to reach me **rozilawati@utm.my**
