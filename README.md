@@ -16,7 +16,7 @@
 
 ## 📚 COURSES:
 
-- [DATABASE (SECD2523-SECTION 10 20232024-04)(https://github.com/rozilawati/SECD2523-Database---10-23-24-1-)
+- [DATABASE (SECD2523-SECTION 10 20232024-04)](https://github.com/rozilawati/SECD2523-Database---10-23-24-1-)
   
 - [DATABASE - SECTION 10](https://github.com/rozilawati/SECD2523-10)
 
